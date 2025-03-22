@@ -1,6 +1,7 @@
 # Automate PR
 This action finds repos containing workflows without permissions and the uses StepSecurity's open source tool secure-workflow to secure the workflow and then creates PR to those repos with added permissions.
 
+
 >motivation is to avoid supply chain attacks
 
 ## Usage
